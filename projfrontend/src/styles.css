@@ -1,0 +1,23 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #a8dadc !important;
+}
+
+.icons{
+  font-size: 40px;
+}
+/* a:hover{
+  color: blueviolet;
+} */
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+
